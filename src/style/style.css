@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,500&display=swap");
+
+h1 {
+    font-family: "IBM Plex Mono", monospace;
+    text-shadow: 2px 2px 7px rgba(0, 0, 0, 0.72);
+}
+.link-nav-bar {
+    color: white;
+    display: flex;
+    margin: 0;
+    margin-left: 1rem;
+}
+.btn-primary {
+    box-shadow: 5px 5px 15px 5px #000000;
+    background: url("https://rocketleague.media.zestyio.com/rl_s9_learn_more_button_1.png") no-repeat center center;
+}
+* {
+    font-family: "IBM Plex Mono", monospace;
+}
