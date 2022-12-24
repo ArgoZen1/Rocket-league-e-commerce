@@ -3,54 +3,54 @@
         "id": 1,
         "name": "Ford",
         "price": 500,
-        "imgUrl": "/public/images/Ford.jpg"
+        "imgUrl": "images/Ford.jpg"
     },
     {
         "id": 2,
         "name": "Octane",
         "price": 15000,
-        "imgUrl": "/public/images/Octane.jpg"
+        "imgUrl": "images/Octane.jpg"
     },
     {
         "id": 3,
         "name": "McLaren",
         "price": 22000,
-        "imgUrl": "/public/images/McLaren.png"
+        "imgUrl": "images/McLaren.png"
     },
     {
         "id": 4,
         "name": "Dominus",
         "price": 14000,
-        "imgUrl": "/public/images/Dominus.png"
+        "imgUrl": "images/Dominus.png"
     },
     {
         "id": 5,
         "name": "Fennec",
         "price": 12000,
-        "imgUrl": "/public/images/Fennec.png"
+        "imgUrl": "images/Fennec.png"
     },
     {
         "id": 6,
         "name": "Nissan",
         "price": 9500,
-        "imgUrl": "/public/images/Nissan.png"
+        "imgUrl": "images/Nissan.png"
     },
     {
         "id": 7,
         "name": "BMW",
         "price": 14000,
-        "imgUrl": "/public/images/BMW.png"
+        "imgUrl": "images/BMW.png"
     },
     {
         "id": 8,
         "name": "Samurai",
         "price": 400,
-        "imgUrl": "/public/images/Samurai.png"
+        "imgUrl": "images/Samurai.png"
     },
     {
         "id": 9,
         "name": "Breakout",
         "price": 800,
-        "imgUrl": "/public/images/Breakout.png"
+        "imgUrl": "images/Breakout.png"
     }
 ]
