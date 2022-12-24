@@ -1,7 +1,7 @@
 import { Button, Container, Nav, Navbar as NavbarBs } from "react-bootstrap"
 import { NavLink } from "react-router-dom"
 import { useShoppingCart } from "../context/ShoppingCartContext"
-import logoRL from "../assets/logoRL.png"
+import logoRL from "/Public/images/logoRL.png"
 export function Navbar() {
     const { openCart, cartQuantity } = useShoppingCart()
     return (
